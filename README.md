@@ -1,2 +1,2 @@
-# pairstrading
-A pairs trading strategy using BTC and ETH, incorporating moving averages, Z-Score, and the Kelly Criterion for optimal trade sizing and risk management.
+# Pairs Trading
+Pairs Trading is a well known quantitative trading strategy used by many investors. It is a market neutral strategy where traders hedge against market movements by taking advantage of mean-reversion behavior between a pair of assets (Fallahpour et al., 2016). It consists of several approaches, including the distance, cointegration and time series approaches. This project will focus on the cointegration approach.
